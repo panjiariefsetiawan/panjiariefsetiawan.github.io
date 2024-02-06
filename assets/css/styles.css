@@ -95,6 +95,10 @@ ul {
   list-style: none;
 }
 
+ul.s {
+  list-style: circle;
+}
+
 a {
   text-decoration: none;
 }
