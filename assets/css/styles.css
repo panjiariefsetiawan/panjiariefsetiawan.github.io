@@ -262,6 +262,7 @@ img {
 
 .home__img{
   width: 160px;
+  justify-self: center;
 }
 
 .home__handler{
