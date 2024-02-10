@@ -498,11 +498,6 @@ img {
 }
 
 
-
-}
-
-
-
 /* Services modal */
 .services__modal{
   position: fixed;
@@ -567,15 +562,7 @@ img {
   font-size: 1.5rem;
   color: var(--first-color);
   cursor: pointer;
-
 }
-
-
-
-
-
-
-
 
 /*Active modal*/
 .active-modal{
