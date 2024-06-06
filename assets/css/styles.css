@@ -262,7 +262,8 @@ img {
 
 .home__img{
   width: 160px;
-  justify-self: right;
+  justify-self: center;
+  padding-right: 0;
 }
 
 .home__handler{
