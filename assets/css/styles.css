@@ -262,7 +262,7 @@ img {
 
 .home__img{
   width: 160px;
-  justify-self: center;
+  justify-self: right;
 }
 
 .home__handler{
@@ -275,7 +275,7 @@ img {
             );
   border-radius: 10rem 10rem 1rem 1rem;
   display: flex;
-  align-items: right;
+  align-items: flex-end;
   justify-content: center;
   overflow: hidden;
 }
