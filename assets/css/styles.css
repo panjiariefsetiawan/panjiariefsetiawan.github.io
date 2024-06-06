@@ -266,7 +266,7 @@ img {
 }
 
 .home__handler{
-  justify-self: center;
+  justify-self: flex-end;
   width: 190px;
   height: 293px;
   background: linear-gradient(180deg,
