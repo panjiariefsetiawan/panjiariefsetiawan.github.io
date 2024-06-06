@@ -263,7 +263,7 @@ img {
 .home__img{
   width: 160px;
   justify-self: center;
-  padding-right: 0;
+  padding-right: -10px;
 }
 
 .home__handler{
