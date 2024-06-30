@@ -431,7 +431,7 @@ img {
 
 .skills__box{
   display: flex;
-  justify-content: center;
+  justify-content: left;
   column-gap: 2.5rem;
 }
 
