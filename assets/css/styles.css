@@ -556,7 +556,7 @@ img {
 }
 
 .services__modal-close{
-  position: absolute;
+  position: relative;
   top: 1.5rem;
   right: 1.5rem;
   font-size: 1.5rem;
